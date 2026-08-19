@@ -1,0 +1,9 @@
+# Reference databases and release archives must NEVER enter Git.
+*.sqlite
+*.sqlite.*
+*.zip
+*.part
+
+# Local temporary files
+__pycache__/
+*.tmp
